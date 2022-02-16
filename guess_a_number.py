@@ -20,5 +20,5 @@ while guesses < 6:
 if user_input == num:
         print(f"Good job {name}! You guessed the number in {guesses} guesses!")
 elif user_input != num:
-        print(f"Sorry, {name}. You could not guess my number {guesses}.")   
+        print(f"I'm sorry, {name}. You could not guess my number {guesses}.")   
 
