@@ -6,3 +6,4 @@ class AngryBird:
     def move_up_by(self, delta):
         self.y ++ delta
         bird = AngryBird()
+        
